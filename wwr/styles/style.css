@@ -13,6 +13,7 @@ header {
 }
 nav a {
     text-align: center;
+    color: ;
 }
 nav a:hover {
     background-color:#F5EBE0 ;
@@ -24,7 +25,7 @@ nav a:hover {
 }
 .book:hover, .join:hover {
     background-color:#F5EBE0 ;
-    color:#a85423;
+    color:black;
 }
 #background {
     height: 725px;
@@ -48,12 +49,28 @@ main section {
 }
 #logo {
     width: 10%;
+    border-radius: 60%;
 }
 .msg {
     background-color:#F5EBE0 ;
     color:#a85423;
     }
+.msg h2 {
+    color:#a85423; 
+}
 footer {
     background-color:#F5EBE0 ;
+    color:#D5BDAF;
+}
+footer a {
+    color:#D5BDAF; 
+}
+footer a:hover {
+    color:#D5BDAF;
+}
+.home-title {
+    color:#a85423;
+}
+h4 { 
     color:#a85423;
 }
