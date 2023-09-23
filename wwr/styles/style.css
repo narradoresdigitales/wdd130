@@ -1,10 +1,10 @@
 
 body {
-    background-color:#F5EBE0 ;
+    background-color:#F5EBE0;
     color:#a85423; 
 }
 header {
-    background-color:#F5EBE0 ;
+    background-color:#a78877; 
     color:#a77254; 
 }
 #content {
@@ -13,7 +13,7 @@ header {
 }
 nav a {
     text-align: center;
-    color: #d46220;
+    color:#F5EBE0; 
     text-decoration: none;
 }
 nav a:hover {
@@ -21,12 +21,12 @@ nav a:hover {
     color: #a77254; 
 }
 .book, .join {
-    background-color:#a77254;
+    background-color:#a78877;
     color:black; 
     text-decoration: none;
 }
 .book:hover, .join:hover {
-    background-color:#F5EBE0 ;
+    background-color:#F5EBE0;
     color: #a85423; 
 }
 #background {
@@ -50,19 +50,21 @@ main section {
     width: 100%;
 }
 #logo {
-    width: 10%;
+    width: 7%;
     border-radius: 60%;
 }
 .msg {
-    background-color:#F5EBE0 ;
-    color:#a85423;
+    background-color: rgb(45, 66, 14);
+    color: #f0e6e1; 
     }
 .msg h2 {
-    color:c
+    color:#f0e6e1;  
 }
 footer {
-    background-color:#a78877; ;
+    background-color:#a78877; 
     color:#D5BDAF;
+
+
 }
 footer a {
     color:#D5BDAF; 
