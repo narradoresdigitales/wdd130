@@ -2,7 +2,14 @@ nav {
     text-align: center;
 }
 
+nav a {
+    color: white; 
+}
 
+body {
+    background-color: black;
+    color: white;
+}
 
 
 #hero_img {
@@ -10,4 +17,13 @@ nav {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+}
+
+footer {
+    color: white;
+
+}
+
+.contact {
+    color: white;
 }
