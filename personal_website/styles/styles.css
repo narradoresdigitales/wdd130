@@ -13,10 +13,6 @@ img {
     width: 100%;
 }
 
-.left-middle img {
-    width: 25%;
-}
-
 .background_cv img {
     width: 100%;
 
@@ -54,7 +50,7 @@ img {
 .left-middle {
     position: absolute;
     top: 575px;
-    left: 375px;
+    left: 550px;
 }
 
 .left-bottom {
