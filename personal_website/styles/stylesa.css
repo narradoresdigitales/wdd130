@@ -1,0 +1,82 @@
+
+a {
+    background-color: white;
+    color: black;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.background_cv img {
+    width: 100%;
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    
+}
+
+.container 
+
+.center {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.left-middle {
+    position: absolute;
+    top: 575px;
+    left: 50px;
+}
+
+.right-middle {
+    position: absolute;
+    top: 575px;
+    right: 200px;
+}
+
+
+
+.left-bottom {
+
+}
+
+
+
+
+.right-bottom {
+
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+
+}
+
+.contact {
+    color: white;
+}
