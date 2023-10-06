@@ -1,8 +1,14 @@
 
 a {
     
-    color: rgb(102, 201, 117);
+    color: white;
+    border: 5px solid rgb(102, 201, 117) ;
 }
+    /*  */ 
+.left-middle a {
+    color: white; 
+}
+
 
 body {
     background-color: black;
@@ -50,19 +56,19 @@ img {
 .left-middle {
     position: absolute;
     top: 575px;
-    left: 550px;
+    left: 710px;
 }
 
 .left-bottom {
     position: absolute;
     top: 800px;
-    left: 550px;
+    left: 150px;
 }
 
 .right-middle {
     position: absolute;
-    top: 575px;
-    right: 500px;
+    top: 800px;
+    right: 300px;
 }
 
 
