@@ -21,6 +21,7 @@ header {
 
 .icon {
     padding-top: 10px;
+    width: 80px;
 }
 
 #logo_link {
@@ -91,7 +92,7 @@ main section {
     width: 100%;
 }
 #logo {
-    width: 7%;
+    width: 80px;
     border-radius: 60%;
 }
 .msg {
@@ -130,6 +131,7 @@ footer p {
 }
 footer .social img {
     padding-top: 15px;
+    width: 80px;
 }
 
 .home-title {
